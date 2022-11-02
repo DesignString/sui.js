@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@mysten/bcs': 0.3.0
+  '@mysten/bcs': 0.4.0
   '@noble/hashes': ^1.1.2
   '@noble/secp256k1': ^1.6.3
   '@scure/bip32': ^1.1.0
@@ -37,7 +37,7 @@ specifiers:
   wait-on: ^6.0.1
 
 dependencies:
-  '@mysten/bcs': 0.3.0
+  '@mysten/bcs': 0.4.0
   '@noble/hashes': 1.1.3
   '@noble/secp256k1': 1.7.0
   '@scure/bip32': 1.1.1
@@ -1643,8 +1643,8 @@ packages:
       '@jridgewell/sourcemap-codec': 1.4.14
     dev: true
 
-  /@mysten/bcs/0.3.0:
-    resolution: {integrity: sha512-Me6OkrS+idPq+ZUM1MEcKP9YOTacZKLwo0gf8rfeImQ+G25tqPRhjpccZGOUJGOKh+gojH2vjkWi2TYJv9kNCg==}
+  /@mysten/bcs/0.4.0:
+    resolution: {integrity: sha512-9qtPtFgUu7k2DnS1PyfT5lRngzgzUPx5x6BobcxOZgl+nxoa+WZNvJBWU6VoI2RJi2uxg72MswCEtgFsYaoIfQ==}
     dependencies:
       bn.js: 5.2.1
     dev: false
